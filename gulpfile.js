@@ -30,7 +30,7 @@ gulp.task('scripts', () => {
 });
 
 gulp.task('scripts:watch', () => {
-    gulp.watch('./js/**/*.js', ['scripts']);
+    gulp.watch('script.js', ['scripts']);
 });
 
 
