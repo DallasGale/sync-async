@@ -1,1 +1,1 @@
-Testing syncronous & asynchronous requests/functions etc..
+Testing synchronous & asynchronous requests/functions etc..
